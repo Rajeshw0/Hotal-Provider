@@ -1,0 +1,115 @@
+#carthome_1 .line-through{
+    text-decoration: line-through;
+    margin-left: 10px;
+    color:#797979;
+  }
+  #carthome_1 .product__infos h5 {
+    font-weight: 600;
+    font-size: 27px;
+    color: #5e17eb;
+    margin-top: -10px;
+  }
+  #carthome_1 .products {
+    margin: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #ffffff;
+    height: 130px;
+    width: 655px;
+  }
+  /* #carthome_1 .product__infos {
+    padding:20px;
+    color: rgb(0,0,0);
+
+  } */
+  @media(min-width:768px){
+    #carthome_1 .products{
+      display: flex;
+      align-items: stretch;
+      justify-content: center;
+      text-align: left;
+      /* margin: 20px; */
+      margin:-5%;
+      margin-top: 3px;
+    }
+    #carthome_1 .products img{
+      width: 15% !important;
+      border-top-left-radius: 10px;
+      border-bottom-left-radius: 10px;
+    }
+    #carthome_1 .product__infos{
+      width:65%;
+      padding:20px;
+      padding-right: 40px;
+      padding-left: 40px;
+      border: 1px solid gray;
+      border-top-right-radius: 10px;
+      border-bottom-right-radius: 10px;
+    }
+  }
+  #carthome_1 img{
+    background-color: #8c52ff;
+  }
+  .flxes{
+    display: flex;
+    justify-content: space-between;
+  }
+  #carthome_1 h6{
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: -10px;
+    margin-right: 75px;
+    color:#5e17eb;
+  }
+  .cross{
+    text-decoration: line-through;
+    color: red;
+    text-decoration-thickness: 3px;
+    margin-left: 10px; 
+  }
+.grid{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.total1{
+ margin-top: 120px;   
+}
+.total3{
+    font-size: 20px;
+    color:blueviolet;
+    display: flex;
+    justify-content: space-between;
+}
+.products1{
+    border: 2px solid blueviolet ;
+    padding: 20px;
+    margin-top: 60px;
+    border-radius: 20px;
+}
+.buttttons1{
+  display: flex;
+  justify-content: center;
+}
+.color1{
+  background: #5e17eb;
+  margin-top: 30px;
+  color:white;
+  padding: 10px;
+  width: 30%;
+  border:1px solid #5e17eb;
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.text{
+  text-align: center;
+  margin-top: 50px;
+  font-size: 30px;
+  color: #5e17eb;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.linethrough{
+  border:1px solid blueviolet;
+  color: blueviolet;
+}

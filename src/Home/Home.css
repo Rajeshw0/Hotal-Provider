@@ -1,0 +1,30 @@
+.home__section {
+    padding:80px 30px;
+    text-align: center;
+  }
+  
+  .home__section_2 {
+    padding:80px 30px;
+    background: #ececec;
+    text-align:center;
+  }
+  .heading{
+    text-align: center;
+  }
+
+  @media (min-width: 767px) {
+.home__section_3{
+    padding: 100px 60px !important;
+  }
+  }
+  .home__section_3{
+    padding: 40px 20px;
+  }
+ .home__section_3 .MuiButtonBase-root{
+  margin-top: 50px;
+  }
+
+  a{
+    text-decoration: none;
+  }
+ 

@@ -1,0 +1,62 @@
+#resthome_1 .banner{
+    height: 100%;
+    position: relative;
+    width:100%;
+    background: url("https://a0.muscache.com/im/pictures/miso/Hosting-35356405/original/b180604a-2b0a-4c10-b2ca-324d1b298d99.jpeg?im_w=960");
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    background-position: center;
+}
+#resthome_1 img{
+    width: 100%;
+}
+#resthome_1 .banner__info{
+    background-color: #5e17ebcf;
+    color: white;
+    padding: 0px 40px;
+    width: 50%;
+    margin-left: 0px;
+    height:85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#resthome_1 .MuiImageList-standard{
+    gap: 0px !important;
+}
+#resthome_1 .banner__search{
+    display: flex;
+    flex-direction: column;
+}
+#resthome_1 .banner_searchButton{
+    background-color:white !important;
+    color: #000000 !important;
+    text-transform: inherit !important;
+    font-weight: 900;
+}
+#resthome_1 .info_content{
+    padding: 20px 30px;
+}
+#resthome_1 .banner__info button{
+    background-color: #000000;
+    color: white;
+    text-transform: inherit;
+    font-weight: 600;
+    border: 1px solid white;
+    padding:10px 50px;
+}
+#resthome_1 .banner__info button:hover{
+    background-color:white ;
+    color: #000000;
+    border: 2px solid black;
+}
+
+#resthome_1 .banner__info h5{
+    margin-top: 10px;
+    font-size:20px;
+    font-weight: 400;
+}
+#resthome_1 h1{
+    font-size: 70px;
+    font-weight: 700;
+}

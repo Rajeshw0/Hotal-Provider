@@ -1,0 +1,98 @@
+#resthome_1 .home__section {
+    padding:80px 30px;
+    text-align: center;
+  }
+  #resthome_1 .gal_imgs{
+    box-shadow: 0px 0px 10px 10px #e8e8e8;
+    padding-bottom:15px;
+  }
+  #resthome_1 .home__section_2 {
+    padding:80px 30px;
+    background: #ececec;
+    text-align:center;
+  }
+  #resthome_1 .heading{
+    text-align: center;
+  }
+
+  @media (min-width: 767px) {
+#resthome_1 .home__section_3{
+    padding: 100px 60px !important;
+  }
+  }
+  #resthome_1 .home__section_3{
+    padding: 40px 20px;
+  }
+  #resthome_1.section .MuiButtonBase-root{
+  margin-top: 0px;
+  }
+  #resthome_1 .nitems{
+    font-size:20px;
+    padding:10px;
+    width: 100px;
+    height:50px;
+  }
+  #resthome_1 .gallery_image img{
+  height: 100%;
+ }
+  
+
+ 
+  #resthome_1 .css-sghohy-MuiButtonBase-root-MuiButton-root{
+    margin: 0px;
+  }
+  #resthome_1 .css-11lq3yg-MuiGrid-root{
+    margin-top:40px;
+    justify-content: center;
+  }
+  #resthome_1 .item_price, #resthome_1 .description{
+    margin: 40px auto;
+  }
+  #resthome_1 .MuiSvgIcon-root{
+    color: black;
+    font-size: 50px;
+    cursor: pointer;
+    
+  }
+
+  #resthome_1 .items_detail p{
+      margin-top:10px;
+      font-size: 20px;
+  }
+  #resthome_1 .checkoutItems input{
+    border: 4px solid #5e17eb;
+    border-radius: 15px;
+    color:#5e17eb;
+    font-weight: 700;
+  }
+  #resthome_1 .items_detail b{
+    color: #5e17eb;
+    font-weight: 700;
+  }
+  #resthome_1 .share_icons i{
+    font-size: 24px !important;
+  }
+  #resthome_1 .share_item i{
+    font-size: 35px;
+    margin: 0px 10px;
+    color: #5e17eb;
+  }
+
+  #resthome_1  .cross{
+    text-decoration: line-through;
+    color: red;
+    text-decoration-thickness: 3px;
+    margin-left: 10px;
+  }
+  #resthome_1 .item_title{
+    text-align: left;
+    font-weight: 700;
+    color:#5e17eb;
+  }
+  #resthome_1 .item_price{
+    text-align: left;
+  }
+  #resthome_1 .description{
+    text-align: left;
+  }
+  
