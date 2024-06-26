@@ -21,9 +21,9 @@ function Banner() {
             </div> */}
             <div className='banner__info'>
                 <ImageList cols={3}>
-                <ImageListItem><img src="https://angfuzsoft.com/html/pizzer/demo/assets/img/menu/menu_rest_1_1.png" alt = "img"/></ImageListItem>
-                <ImageListItem><img src="https://angfuzsoft.com/html/pizzer/demo/assets/img/menu/menu_rest_1_3.png" alt = "img"/></ImageListItem>
-                <ImageListItem><img src="https://angfuzsoft.com/html/pizzer/demo/assets/img/menu/menu_rest_1_2.png" alt = "img"/></ImageListItem>
+                <ImageListItem><img src="https://images.pexels.com/photos/5371575/pexels-photo-5371575.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt = "img"/></ImageListItem>
+                <ImageListItem><img src="https://images.pexels.com/photos/5371575/pexels-photo-5371575.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt = "img"/></ImageListItem>
+                <ImageListItem><img src="https://images.pexels.com/photos/5371575/pexels-photo-5371575.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt = "img"/></ImageListItem>
                 </ImageList>
                 <div className="info_content">
                     <h2>Get out of stretch your imagination</h2>
